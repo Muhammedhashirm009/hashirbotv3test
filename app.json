@@ -71,6 +71,11 @@
             "required": false,
             "value": "JIMBROOTAN"
         },
+        "BOT_DIS": {
+            "description": "give a name you disire to give your bot (for auto reply jimbrootan to identify)",
+            "required": false,
+            "value": "Muhammed hashir"
+        },
         "DEP_NAME": {
             "description": "bot deployer name make it short  (for auto reply jimbroootan to identify)",
             "required": false,
