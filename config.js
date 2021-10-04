@@ -41,6 +41,7 @@ module.exports = {
     ADDMSG: process.env.ADD_MESSAGE === undefined ? 'default' : process.env.ADD_MESSAGE,
     MUTEMSG: process.env.MUTE_MESSAGE === undefined ? 'default' : process.env.MUTE_MESSAGE,
     BOTNME: process.env.BOT_NAME === undefined ? 'JIMBROOTAN' : process.env.BOT_NAME,
+    BOTDIS: process.env.BOT_DIS === undefined ? 'MUHAMMED HASHIR' : process.env.BOT_DIS,
     NOLOG: process.env.NO_LOG === undefined ? 'false' : process.env.NO_LOG,
     FULLEVA: process.env.FULL_EVA === undefined ? 'false' : process.env.FULL_EVA,
     AUTOSTICKER: process.env.STICKER_REPLY === undefined ? false : convertToBool(process.env.STICKER_REPLY),
